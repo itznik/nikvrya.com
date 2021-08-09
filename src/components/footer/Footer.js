@@ -13,7 +13,7 @@ export default function Footer() {
           {emoji("Made with ❤️ by Nik Vrya")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Theme by{" "}
+          My Id Of{" "}
           <a href="https://t.me/itznik_x">
             Telegram
           </a>
